@@ -12,9 +12,9 @@ Our best public score was 0.80392 using this setting and our best private score 
 Reference: https://www.kaggle.com/competitions/oxml2023mlcases-esg-classifier
 
 ## Files
-sample_submission.csv - a sample submission file in the correct format with all the page ids on which you should provide a prediction
-labels.csv - the labels to train your model
-reports/*.pdf - ESG reports from both training and testing set
-Main notebook - nlp-esg-classifier.ipynb
-Output folders contains our best prediction outputs.
+* sample_submission.csv - a sample submission file in the correct format with all the page ids on which you should provide a prediction
+* labels.csv - the labels to train your model
+* reports/*.pdf - ESG reports from both training and testing set
+* Main notebook - nlp-esg-classifier.ipynb
+* Output folders contains our best prediction outputs.
 
